@@ -9,4 +9,4 @@
 7. git status 查看檔案是否都加入
 8. (第六步沒通過，使用git add 把要上傳的檔案加入) git add xxxx 
 9. cz commit
-10. push -u origin main
+10. git push -u origin main
